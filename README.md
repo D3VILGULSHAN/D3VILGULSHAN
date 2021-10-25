@@ -7,7 +7,7 @@
 - 📫 HOW TO REACH ME  : 
        ❥︎ TELEGRAM  - [@D3VILGULSHAN](https://t.me/d3vilgulshan)   ❥︎ YOUTUBE  - [@D3VILGULSHAN](https://YouTube.com/d3vilgulshan) 
 - 😄 PRONOUNS: HE/HIS
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3vilgulshan&label=Profile%20Views&color=orange&style=flat-square" alt="d3vilgulshan" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=d3vilgulshan&label=Profile%20Views&color=orange&style=flat-square" alt="d3vilgulshan" /> </p>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3VILGULSHAN&theme=dracula&count_private=true"></div>
 
