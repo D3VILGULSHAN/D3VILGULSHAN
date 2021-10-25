@@ -8,3 +8,4 @@
        ❥︎ TELEGRAM  - [@D3VILGULSHAN](https://t.me/d3vilgulshan)   ❥︎ YOUTUBE  - [@D3VILGULSHAN](https://YouTube.com/d3vilgulshan) 
 - 😄 PRONOUNS: HE/HIS
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vilgulshan&layout=compact&theme=radical)](https://github.com/D3VILGULSHAN)
