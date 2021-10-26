@@ -1,4 +1,4 @@
-### HOLA , I'M GULSHAN KUMAR 👋👋
+### HOLA  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'M GULSHAN KUMAR
 
 
 - 🌱 I’M CURRENTLY LEARNING GIT & GITHUB
